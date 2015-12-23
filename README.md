@@ -1,0 +1,2 @@
+# Classification-Algorithms
+- Implemented classification algorithms of Naive Bayes, Neural Networks, Decision Tree and Random Forest on the biological and genomic dataset - Also explored the classification process using Support Vector Machine and Principal Component Analysis on external data for feature reduction and class label prediction from test data after effectively training on train data  - Analyzed and compared the effectiveness of the algorithms in classification and label prediction
